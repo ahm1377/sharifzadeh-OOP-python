@@ -1,0 +1,15 @@
+# توابع محاسباتی دیگر
+import math
+n1=float(input("enter a number : "))
+n1=math.exp(n1)
+print("exponent : ",n1)
+print("******************")
+r1=math.sin(math.pi/6)
+print(" sin (pi/6) : ",r1)
+print("******************")
+r1=math.cos(math.pi/3)
+print(" cos(pi/3) : ",r1)
+print("******************")
+t1=math.tan(math.pi/4)
+print(" tan(pi/4) : ",t1)
+print("******************")
